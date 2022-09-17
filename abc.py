@@ -53,7 +53,7 @@ class Home:
 ♫ Lệnh " HELP " Để Xem Hướng Dẫn ♫
 """)
 		while True:
-			sys.stdout.write(Color.LB+"╔═══"+Color.LR+"["+Color.LG+" LoveTool "+Color.LR+"]"+Color.LB+"\n╚══> "+Color.RESET)
+			sys.stdout.write(Color.LB+"╔═══"+Color.LR+"["+Color.LG+" nguyencaosang "+Color.LR+"]"+Color.LB+"\n╚══> "+Color.RESET)
 			option = input()
 			if option == 'layer4' or option == 'LAYER4':
 				os.system('clean');self.Method2()
@@ -85,7 +85,7 @@ class Home:
    ╔══════════════════════════╗
    ║ 🚀 LoveTool Version 2 🚀 ║
    ║   > Update 10-9-2022 <   ║
-   ╚╗       viduchung        ╔╝
+   ╚╗      nguyencaosang        ╔╝
 ╔═══╩════════════╦═══════════╩════╗
 ║     LAYER7     ║     LAYER4     ║
 ║> SOCKET        ║> SYN           ║
@@ -103,7 +103,7 @@ class Home:
 		print(Color.LR+"["+Color.LG+"HOME"+Color.LR+"]"+Color.LC+" TRỞ LẠI")
 		print("\n")
 		while True:
-			sys.stdout.write(Color.LB+"╔═══"+Color.LR+"["+Color.LG+" LoveTool "+Color.LR+"]"+Color.LB+"\n╚══> "+Color.RESET)
+			sys.stdout.write(Color.LB+"╔═══"+Color.LR+"["+Color.LG+" nguyencaosang "+Color.LR+"]"+Color.LB+"\n╚══> "+Color.RESET)
 			option = input()
 			if option == '01' or option == '1':
 				try:
@@ -205,7 +205,7 @@ class Home:
    ╔══════════════════════════╗
    ║ 🚀 LoveTool Version 2 🚀 ║
    ║   > Update 10-9-2022 <   ║
-   ╚╗       viduchung        ╔╝
+   ╚╗      nguyencaosang        ╔╝
 ╔═══╩════════════╦═══════════╩════╗
 ║     LAYER7     ║     LAYER4     ║
 ║> SOCKET        ║> SYN           ║
